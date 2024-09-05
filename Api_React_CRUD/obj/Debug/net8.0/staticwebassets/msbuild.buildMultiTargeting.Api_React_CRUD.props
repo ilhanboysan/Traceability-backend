@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api_React_CRUD.props" />
+</Project>
